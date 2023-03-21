@@ -1,6 +1,7 @@
 # qsc
 
 First release of QSC plugin automation for PAA20+ by Cinemanext Spain.
+https://cinemanext.com/cinemanext-p-aa20-automation-adapter
 
 With this plugin all the 8 inputs and 12 outputs can be controlled and monitored from QSYS Designer:
 
